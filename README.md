@@ -7,10 +7,10 @@ By [Phil Worthington](https://github.com/philworthington).
 A product store made in Rails using Foundation for styling and structure using a 12 column grid system.
 
 In Gemfile:
-gem 'zurb-foundation'
+> gem 'zurb-foundation'
 
 Terminal:
-rails g foundation:install
+> rails g foundation:install
 
 
 ## Information
@@ -19,7 +19,7 @@ rails g foundation:install
 ## Authors
 
 * Phil Worthington (https://github.com/philworthington)
-Based on Railscast #417 by Ryan Bates
+* Based on Railscast #417 by Ryan Bates
 
 ## License
 
