@@ -23,6 +23,14 @@ end
 
 gem 'jquery-rails'
 
+group :development, :test do
+  gem "minitest-rails"
+  gem "minitest-focus"
+  gem "minitest-colorize"
+  gem "capybara-webkit"
+  gem "launchy"
+end
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
